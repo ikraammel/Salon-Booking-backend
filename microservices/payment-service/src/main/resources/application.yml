@@ -1,0 +1,22 @@
+server:
+  port: 8085
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/paymentdb?createDatabaseIfNotExist=true
+    username: postgres
+    password: ikram
+    driver-class-name: org.postgresql.Driver
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
+    show-sql: true
+razorpay:
+  key-id: "rzp_test_1234567890abcdef"
+  key-secret: "secret_abcdefghijk123456"
+stripe:
+  api-key: "stripe api key"
+
+
