@@ -25,7 +25,3 @@ git clone https://github.com/ikraammel/Salon-Booking-backend.git
 cd Salon-Booking-backend
 ```
 Install the dependencies for the relevant application components and configure any required environment variables or external services according to the project source.
-
-## About this project
-
-Part of my software engineering project portfolio.
