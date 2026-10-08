@@ -1,23 +1,34 @@
-# Salon Booking — Backend
+# Salon Booking — Microservices Backend
 
-Backend project for a salon booking application.
+A salon appointment booking platform built using a Java and Spring Boot microservices architecture. This repository contains the backend.
 
-## Overview
+## Key features
 
-This repository contains the source code for **Salon Booking — Backend**. It is part of my software development portfolio.
+- Online salon booking workflows
+- Microservices-based backend architecture
+- Payment integrations with Razorpay and Stripe
+
+## Technology stack
+
+- Java
+- Spring Boot
+- Microservices
+- Razorpay
+- Stripe
 
 ## Getting started
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ikraammel/Salon-Booking-backend.git
-   cd Salon-Booking-backend
-   ```
-2. Inspect the project configuration and set the required environment variables before starting the server.
+Clone the repository:
 
-## Project status
+```bash
+git clone https://github.com/ikraammel/Salon-Booking-backend.git
+cd Salon-Booking-backend
+```
+Install the dependencies for the relevant application components and configure any required environment variables or external services according to the project source.
 
-Portfolio / learning project. Refer to the source code for the currently implemented functionality.
+## About this project
+
+Part of my software engineering project portfolio.
 
 ## Author
 
